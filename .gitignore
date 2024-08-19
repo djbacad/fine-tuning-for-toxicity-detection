@@ -1,4 +1,5 @@
 # Ignore data files
 *.csv
 
+# Don't git-track results
 results/
