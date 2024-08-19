@@ -5,7 +5,7 @@ import kaggle
 kaggle.api.authenticate()
 
 # Dataset spec
-dataset_name = 'sherinclaudia/sarcastic-comments-on-reddit' 
+dataset_name = 'reihanenamdari/youtube-toxicity-data' 
 dataset_version = 'latest'  # 'latest' to get the most recent version
 download_path = './datasets'
 
