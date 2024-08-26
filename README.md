@@ -1,6 +1,10 @@
 Toxicity Detection in Comments
 ==================================
 
+![Toxic1](https://github.com/user-attachments/assets/622d815e-cc9c-4f96-91f2-2b6df35b5efa)
+![Toxic2](https://github.com/user-attachments/assets/6441f0bf-7bb9-494d-996a-5bf223383876)
+
+
 This project aims to detect toxicity in comments using various approaches. The dataset used for evaluation is `youtoxic_english_1000.csv`, which contains comments labeled for toxicity. We explore three distinct methods to achieve this task:
 
 1. **Fine-Tuning a Pre-trained Model for Classification**
