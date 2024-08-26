@@ -3,3 +3,6 @@
 
 # Don't git-track results
 results/
+
+# Ignore tmp/trainer
+tmp_trainer/
