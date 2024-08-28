@@ -1,8 +1,7 @@
 # Ignore data files
 *.csv
 
-# Don't git-track results
+# Don't git-track results, logs and tmp/trainer
 results/
-
-# Ignore tmp/trainer
 tmp_trainer/
+logs/
